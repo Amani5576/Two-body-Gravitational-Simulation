@@ -45,3 +45,4 @@ The simulation plots the trajectories of two objects and tracks their distance o
 ## Notes:
 Ensure correct units are used throughout the script.
 Adjust parameters like step size and threshold distance for optimal simulation performance.
+The file can be run by running `python ./Gravitational_Pull_Simulation.py` on any terminal emulator on a computer with Python 3 installed.
